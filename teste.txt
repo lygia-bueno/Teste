@@ -1,2 +1,3 @@
 testando credenciais, ssh e gitHub
 novo teste com cgave GPG
+testando commit -S
